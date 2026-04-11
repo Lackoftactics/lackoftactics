@@ -11,7 +11,7 @@ Currently finishing an MSc in AI at PJATK. Warsaw-based.
 ## Open source
 
 **[uncompressed](https://github.com/Lackoftactics/uncompressed)**
-![GitHub stars](https://img.shields.io/github/stars/Lackoftactics/facebook_data_analyzer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Lackoftactics/uncompressed?style=social)
 
 A hardened *arr media stack done properly: ten containers, three isolated networks,
 real health checks, no fake kill switches. Most compose files are ticking time bombs.
