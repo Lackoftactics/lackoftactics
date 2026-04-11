@@ -8,7 +8,7 @@ Currently finishing an MSc in AI at PJATK. Warsaw-based.
 
 ---
 
-## My Most Popular Open Source Projects
+## Open Source
 
 **[uncompressed](https://github.com/Lackoftactics/uncompressed)**
 ![GitHub stars](https://img.shields.io/github/stars/Lackoftactics/uncompressed?style=social)
