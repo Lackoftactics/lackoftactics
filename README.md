@@ -1,10 +1,6 @@
 # Przemek Mroczek, 0-1 builder from Warsaw, Poland
 
-Backend engineer, 13+ years in production systems. I write Ruby for a living,
-go deep on things that interest me, and occasionally build something other people
-find useful.
-
-Currently finishing an MSc in AI at PJATK. Warsaw-based.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888&width=500&lines=Backend+engineer,+13%2B+years+in+production.;Building+in+public.+Warsaw-based.;MSc+AI+in+progress+%40+PJATK.)](https://git.io/typing-svg)
 
 ---
 
