@@ -1,3 +1,8 @@
+![](https://raw.githubusercontent.com/Lackoftactics/Lackoftactics/main/banner_github_blended.svg)
+
+# Przemek Mroczek, 0-1 builder from Warsaw, Poland
+...
+
 # Przemek Mroczek, 0-1 builder from Warsaw, Poland
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888&width=500&lines=Backend+engineer,+13%2B+years+in+production.;Building+in+public.+Warsaw-based.;MSc+AI+in+progress+%40+PJATK.)](https://git.io/typing-svg)
