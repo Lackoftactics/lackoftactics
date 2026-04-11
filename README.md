@@ -8,7 +8,7 @@ Currently finishing an MSc in AI at PJATK. Warsaw-based.
 
 ---
 
-## Open source
+## My Most Popular Open Source Projects
 
 **[uncompressed](https://github.com/Lackoftactics/uncompressed)**
 ![GitHub stars](https://img.shields.io/github/stars/Lackoftactics/uncompressed?style=social)
@@ -35,12 +35,6 @@ and whatever rabbit hole I'm currently in.
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lackoftactics&show_icons=true&hide_border=true&theme=dark&hide_title=true&count_private=true)
-
----
-
 ## Stack
 
 `Ruby` `Rails` `PostgreSQL` `Python` `React` `Pandas` `Pytorch` `HuggingFace` `RedPanda` `Redis` `Docker` `Linux`
@@ -49,4 +43,4 @@ and whatever rabbit hole I'm currently in.
 
 ## Work
 
-PayPal / Braintree &nbsp;·&nbsp; Fresha &nbsp;·&nbsp; Bamboo Health
+Fresha &nbsp;·&nbsp; Bamboo Health  &nbsp;·&nbsp; PayPal / Braintree(contractor) 
