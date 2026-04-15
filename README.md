@@ -8,7 +8,6 @@
 
 ---
 
-
 ## Open Source  
 
 <img src="https://gitranks.com/api/badge/v2/lackoftactics?ranking=s&context=global&type=percentile&meta=none&label=Github+Stars&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
