@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888&width=500&lines=Backend+engineer,+13%2B+years+in+production.;Building+in+public.+Warsaw-based.;MSc+AI+in+progress+%40+PJATK.)](https://git.io/typing-svg)
 
-[![https://gitranks.com/profile/Lackoftactics](https://gitranks.com/api/badge/v2/lackoftactics?ranking=s&context=global&type=percentile&meta=none&label=Github+Stars&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2)](https://gitranks.com/profile/Lackoftactics)
+[![https://gitranks.com/profile/Lackoftactics](https://gitranks.com/api/badge/v2/lackoftactics?ranking=s&context=global&type=tier&meta=percentile&label=GitRanks&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2)](https://gitranks.com/profile/Lackoftactics)
 [![mroczek.dev](https://img.shields.io/badge/mroczek.dev-000?style=flat-square&logo=safari&logoColor=white)](https://mroczek.dev)
 [![X](https://img.shields.io/badge/@mroczekdev-000?style=flat-square&logo=x&logoColor=white)](https://x.com/mroczekdev)
 
