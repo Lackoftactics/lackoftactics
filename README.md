@@ -5,8 +5,7 @@
 [![mroczek.dev](https://img.shields.io/badge/mroczek.dev-000?style=flat-square&logo=safari&logoColor=white)](https://mroczek.dev)
 [![X](https://img.shields.io/badge/@mroczekdev-000?style=flat-square&logo=x&logoColor=white)](https://x.com/mroczekdev)
 ---
-<img src="https://gitranks.com/api/badge/v2/lackoftactics?ranking=s&context=global&type=position&meta=percentile&label=Github+Creator+Global+Rank&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%232282c2" />
-
+<img src="https://gitranks.com/api/badge/v2/lackoftactics?ranking=s&context=global&type=score&meta=percentile&label=GitHub+Total+Stars&cornerStyle=rounded&labelBgColor=%235c5c5c&valueBgColor=%231e3a8a" />
 ## Open Source
 
 **[uncompressed](https://github.com/Lackoftactics/uncompressed)**
